@@ -1,0 +1,3 @@
+CHAIR,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/op_u237cgatAh2.exe
+UA,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/OP_UA_MWIII.exe
+SPOOFER,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/JJ-Spoofer.exe
