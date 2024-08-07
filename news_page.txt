@@ -1,1 +1,1 @@
-v1,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/OP_SERVICES_BANNER_V1.gif
+v1,1.00.2,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/OP_SERVICES_BANNER_V2_RDC.gif
