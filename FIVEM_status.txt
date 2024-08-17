@@ -1,1 +1,1 @@
-FIVEM SPOOFER,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/JJ-Spoofer.exe
+FIVEM SPOOFER,online,1.00.02,http://45.92.216.46/JJ-Spoofer.exe
