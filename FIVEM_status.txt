@@ -1,1 +1,1 @@
-FIVEM SPOOFER,online,1.00.02,http://45.92.216.46/JJ-Spoofer.exe
+FIVEM SPOOFER,online,1.00.03,http://45.92.216.46/JJ-Spoofer.exe
