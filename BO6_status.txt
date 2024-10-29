@@ -1,1 +1,2 @@
 BO6 SILENT CHAIR,online,1.00.01,https://cdn.discordapp.com/attachments/1192110285264257135/1300958424636330056/BO6_Silent.rar?ex=6722bb73&is=672169f3&hm=23bb14dda5658eb7b781d7fdb71d12946bf61a1e805730ca0ec1a647ec191a99&
+LOUD CHAIR,online,1.00.01,https://cdn.discordapp.com/attachments/1192110285264257135/1300958857379450891/ldr_AKLIBagDE.exe?ex=6722bbda&is=67216a5a&hm=3feed391f3598600c850a6c323694f4bf26fa3acfcd9b5e82ca3906589b92a71&
