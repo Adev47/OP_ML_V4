@@ -1,0 +1,13 @@
+[design]
+highlight_color = #0100ff
+loader_box_color = #070707
+main_text_color = #ededed
+main_widgets_color = #050505
+
+[links]
+discord_link = https://discord.gg/opservice
+guide_link = https://op-service.gitbook.io/
+website_link = https://opservice.sellauth.com/
+
+[rounded_corners]
+main_widgets = 12
