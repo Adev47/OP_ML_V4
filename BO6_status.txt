@@ -1,3 +1,4 @@
 SILENT CHAIR + SPOOFER,online,1.00.06,https://raw.githubusercontent.com/avod245/921463808428478524_cloud/main/SILENT_UNBRBANDED.exe
 LOUD CHAIR + SPOOFER,online,1.00.06,https://f003.backblazeb2.com/file/cloud-bot/loaders/ldr_AKLIBagDE.exe
 UNLOCK ALL + SPOOFER,online,1.00.04,https://raw.githubusercontent.com/avod245/921463808428478524_cloud/main/blops-UA.exe
+External Chair,online,1.00.01,https://raw.githubusercontent.com/avod245/921463808428478524_cloud/main/ProGress_1.zip
